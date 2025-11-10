@@ -1,0 +1,68 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://high-ark.com/wp-content/uploads/2025/03/High_ark_Old_Logo-1024x1024.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "Rules",
+						"text": "General Rules\r\n\r\n#1. Cheating: Do not cheat in any form. This includes the use of exploits, glitches, or third-party programs.\r\n\r\n#2. Hate Speech: Zero Tolerance. Absolutely no hate speech or targeting of any kind towards any individual or group of people will be tolerated.\r\n\r\n#3. Personal Matters: Do not bring personal, out-of-game matters into the public server channels.\r\n\r\n#4. Admin Impersonation: Do not use \"Admin,\" \"Mod,\" or any variation in your tribe name or player name. (Violation could result in a structure wipe or a ban).\r\n\r\n#5. Mass Breeding: No excessively large or disruptive mass breeding operations. Use common sense regarding server performance.\r\n\r\n#6. False Accusations: Do not falsely accuse players or tribes without proper evidence. All accusations must be backed by proof (screenshots, video, tribelog, etc.).\r\n\r\n\r\nBase & Building Rules\r\n\r\n#1. Obelisk Building: Do not build at or directly block any Obelisk.\r\n\r\n#2. Base Limits: Tribes are permitted a maximum of 3 total active bases:\r\n2 Land Bases\r\n1 Water Base\r\n\r\n#3. Structure Spam: Keep structure spam to a reasonable minimum. Spam is permitted around your own bases and active FOBs, but do not spread it excessively across the map. (No more than 6 FOB's)\r\n\r\n#4. Anti-Mesh: Zero Tolerance. Do not build meshed structures or use any form of mesh exploit. (Violation will result in an immediate tribe wipe and potentially a ban).\r\n\r\n#5. Unbreakable Structures: Do not use structures that cannot be destroyed to block off entrances or points of interest.\r\n\r\n\r\nRaiding & PVP Rules\r\n\r\n#1. Wild Dinos: Do not use wild dinos to try raid or destroy a base.\r\n\r\n#2. Shop Zone PVP: No PVP at the dedicated Shop location. (Violation could result in an immediate ban).\r\nIf you are killed at the shop, you must provide clear proof (video evidence is highly recommended) to the Admins.\r\n\r\n#3. Admin Protection: Do not raid while under active Admin protection.\r\n\r\n#4. Descended Dinos: Do not use Wardens or Seals (From Descended) while raiding."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Info",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "Server Info",
+						"text": "The stats of this server are:\r\nx25 Harvest\r\nBoosted Dino/Player stats\r\nQuick Tame\r\nBoosted Breeding\r\nCasino (found at green obelisk)\r\nPoints Shop (Hold X/E/Square) or Click F1\r\nAwesome Teleporters\r\nAutomated Dino Wipes\r\nImbue & Upgrade Bench\r\nCustom Caves\r\nCustom Content\r\nAnd much more\r\n\r\nMore info such as tutorials can be found on the discord in the how-to-play section"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "FPS Boosters",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "FPS Boosters",
+						"text": "Lily's Tweaker\r\n\r\nThis can be accessed by either:\r\nDouble tap Y/Triangle\r\nOr\r\nClick F5\r\nOr\r\nHolding E/X/Square and selecting the option within radical wheel\r\n\r\nWhen using Lily's Tweaker you can use a set of commands that will autorun each time you join a server with Lily's Tweaker installed\r\n\r\nSome of the most popular commands are:\r\n\r\nUltra (5% - 15% FPS Gain)\r\n\r\nr.Lumen.Reflections.Allow 0 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0\r\n\r\nHigh (15% - 25% FPS Gain)\r\n\r\nr.DynamicGlobalIlluminationMethod 0 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0\r\n\r\nMedium (35% - 45% FPS Gain)\r\n\r\nr.DynamicGlobalIlluminationMethod 2 | r.Nanite.MaxPixelsPerEdge 4 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0\r\n\r\nLow (45% - 55% FPS Gain)\r\n\r\nr.ContactShadows 0 | r.DynamicGlobalIlluminationMethod 2 | r.Nanite.MaxPixelsPerEdge 4 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0 | r.volumetricfog 0 | r.Water.SingleLayer.Reflection 0\r\n\r\nPotato (95% - 105% FPS Gain)\r\n\r\ngrass.enable 0 | r.ContactShadows 0 | r.DynamicGlobalIlluminationMethod 2 | r.Nanite.MaxPixelsPerEdge 4 | r.Shadow.CSM.MaxCascades 0 | r.ShadowQuality 0 | r.VolumetricCloud 0 | r.volumetricfog 0 | r.Water.SingleLayer.Reflection 0"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Our Website",
+				"url": "https://high-ark.com/"
+			},
+			{
+				"text": "Our Discord",
+				"url": "https://discord.gg/4CHPE242PH"
+			},
+			{
+				"text": "Donation Shop",
+				"url": "https://high-ark.com/donation-packages/"
+			}
+		],
+		"version": 2
+	}
+}
