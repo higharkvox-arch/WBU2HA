@@ -1,0 +1,79 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://high-ark.com/wp-content/uploads/2025/03/High_ark_Old_Logo-1024x1024.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "Rules",
+						"text": "General Rules\r\n\r\n  #1. Cheating: Do not cheat in any form. This includes the use of exploits, glitches, or third-party programs.\r\n\r\n  #2. Hate Speech: Absolutely no hate speech or targeting of any kind towards any individual or group of people will be tolerated.\r\n\r\n  #3. Personal Matters: Do not bring personal, out-of-game matters into the public server channels.\r\n\r\n  #4. Admin Impersonation: Do not use \"Admin,\" \"Mod,\" or any variation in your tribe name or player name. \r\n         (Violation could result in a structure wipe or a ban).\r\n\r\n  #5. Naming Conventions: Do not use default names (Human, Bob, 123), invisible names, or glitched characters that do not correctly          \r\n         display.\r\n\r\n  #6. Mass Breeding: No excessively large or disruptive mass breeding operations. Use common sense regarding server performance.\r\n\r\n  #7. False Accusations: Do not falsely accuse players or tribes without proper evidence. All accusations must be backed by proof \r\n         (screenshots, video, tribelog, etc.).\r\n\r\n  #8. Tames On Map Limit: Do not have more than 30 tames on the map at once including base defence tames (this may result some of \r\n         the tames being took by an admin or killed)\r\n\r\n\r\nBase & Building Rules\r\n\r\n  #1. Obelisk Building: Do not build at or directly block any Obelisk.\r\n\r\n  #2. Base Limits: Tribes are permitted a maximum of 3 total active bases:\r\n  2 Land Bases\r\n  1 Water Base\r\n\r\n  #3. Bases cannot have more than a specific number of tames defending:\r\n  Small Base - (Between 10/20 foundations wide, 10/30 foundations wide and 10/20 walls tall) - 5 tames max\r\n  Medium Base - (Between 30/60 foundations wide, 30/80 foundations wide and 30/60 walls tall) - 10 tames max\r\n  Larger Bases - (Anything bigger than medium) - 20 tames max\r\n  (You are not expected to count the size of your cave but instead estimate)\r\n\r\n  #4. Structure Spam: Keep structure spam to a reasonable minimum. Spam is permitted around your own bases and active FOBs, but  \r\n        do not spread it excessively across the map. (No more than 6 FOB's)\r\n\r\n  #5. Anti-Mesh: Zero Tolerance. Do not build meshed structures or use any form of mesh exploit. (Violation will result in an immediate  \r\n         tribe wipe and potentially a ban).\r\n\r\n  #6. Do not build in spots you have to glitch to get in (you must have a entry point and be able to atleast fit a character while crouched  \r\n         with no bugs, glitches or exploits used throughout the whole spot)\r\n\r\n  #7. Unbreakable Structures: Do not use structures that cannot be destroyed to block off entrances or points of interest. \r\n\r\n\r\nRaiding & PVP Rules\r\n\r\n  #1. Wild Dinos: Do not use wild dinos to try raid or destroy a base.\r\n\r\n  #2. Shop Zone PVP: No PVP at the dedicated Shop locations. (Violation could result in an immediate ban).\r\n         If you are killed at the shop, you must provide clear proof (video evidence is highly recommended) to the Admins.\r\n\r\n  #3. Admin/starter protection: Do not raid while under active admin/starter protection or do not raid players that have starter/admin\r\n         protection\r\n\r\n  #4. Descended Dinos: Do not use Wardens or Seals (From Descended) while raiding.\r\n\r\n  #5. Abusing protection: Do not deactivate your protection or reactive your protection during a raid \r\n         (This can result in you losing your protection / a full tribe wipe / ban)\r\n\r\n  #6. Teaming limits: Tribes are limited to a maximum of 6 players for any PvP engagement or raid. This includes all allies and \"verbal\"   \r\n         teammates. If your group already has 6 players present at once, no additional players may assist in any capacity \r\n         (e.g., healing, pvp, or soaking).\r\n                [If another player joins the raid they must not be on your side and also be defending against your team as they raid]"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Info",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "Server Info",
+						"text": "x20 Harvest\r\nBoosted Dino/Player stats\r\nQuick Tame\r\nBoosted Breeding\r\n\r\nPrimal Nemesis\r\nCasino (found at green obelisk)\r\nPoints Shop (Hold X/E/Square) or Click F1\r\nAwesome Teleporters\r\nAutomated Dino Wipes\r\nImbue & Upgrade Bench\r\nCustom Caves\r\nCustom Content (High Ark Mod, High Ark Evos, High Ark Nukes, Superior Structures)\r\nSeed Mod\r\nCybers Structures\r\nSCS\r\nAnd much more\r\n\r\n\r\nThis server has no plans to wipe"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "FPS Boosters",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "FPS Boosters",
+						"text": "Lily's Tweaker\r\n\r\nThis can be accessed by either:\r\nDouble tap Y/Triangle\r\nOr\r\nClick F5\r\nOr\r\nHolding E/X/Square and selecting the option within radical wheel\r\n\r\nWhen using Lily's Tweaker you can use a set of commands that will autorun each time you join a server with Lily's Tweaker installed\r\n\r\nSome of the most popular commands are:\r\n\r\nUltra (5% - 15% FPS Gain)\r\n\r\nr.Lumen.Reflections.Allow 0 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0\r\n\r\nHigh (15% - 25% FPS Gain)\r\n\r\nr.DynamicGlobalIlluminationMethod 0 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0\r\n\r\nMedium (35% - 45% FPS Gain)\r\n\r\nr.DynamicGlobalIlluminationMethod 2 | r.Nanite.MaxPixelsPerEdge 4 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0\r\n\r\nLow (45% - 55% FPS Gain)\r\n\r\nr.ContactShadows 0 | r.DynamicGlobalIlluminationMethod 2 | r.Nanite.MaxPixelsPerEdge 4 | r.Shadow.CSM.MaxCascades 0 | r.VolumetricCloud 0 | r.volumetricfog 0 | r.Water.SingleLayer.Reflection 0\r\n\r\nPotato (95% - 105% FPS Gain)\r\n\r\ngrass.enable 0 | r.ContactShadows 0 | r.DynamicGlobalIlluminationMethod 2 | r.Nanite.MaxPixelsPerEdge 4 | r.Shadow.CSM.MaxCascades 0 | r.ShadowQuality 0 | r.VolumetricCloud 0 | r.volumetricfog 0 | r.Water.SingleLayer.Reflection 0"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Guides/Tutorials",
+				"imageurl": "https://cdn.wallpapersafari.com/40/42/CGNo0W.jpg",
+				"content": [
+					{
+						"title": "Guides/Tutorials",
+						"text": "\r\n🛠️ Mod Crafting Guide\r\n\r\n       High Ark Bench: Demon tier.\r\n\r\n       Primal Smithy: Alpha, Apex, Atlantic, Pacific, Earth, Frost, Hydro, Nature, Storm, Volcanic, Plasma, Ghost, Plague, Bionic, Demonic, \r\n       Celestial, Godly\r\n\r\n       Eternal Saddles: Eternal Tames uses vanilla saddles \r\n      \r\n       Eternal Kibble: Found in Void Bench\r\n\r\n       Nightfire Kibble/Saddles: Nightfire Bench\r\n\r\n       Nightfire Boss: Spawns wild and drops bench, cinder and other resources\r\n\r\n       RNG Items: Supreme Bench\r\n\r\n       RNG Bosses: Ancient Mantis, Moonman, Elite Desmo, Elite Basilisk (Wild Spawns)\r\n\r\n       Nukes: Nuclear Station can be crafted within your players inventory (Requires 8 Players to be online to activate)\r\n\r\n       Evos: Evolution Atlar can be crafted within your players inventory\r\n\r\n       Uranuim resource: Obtained by killing Uranuim Artho (Wild spawn)\r\n\r\n\r\n🏆 How to Reach End-Game (Void, Almighty, Supreme)\r\n\r\n       1. The Boss Progression Path\r\n       Unlock Void: Craft the Void Boss in the Superior Bench.\r\n\r\n       Unlock Almighty: Craft & Kill the Boss Crafted within the Void Bench.\r\n\r\n       Unlock Supreme: Craft & Kill the Boss Crafted within the Almighty Bench.\r\n\r\n       To get Supreme items: Farm Gamma Coins (From Nukes), Kill Mishayvr Boss, Events and Giveaways and use the Supreme spin found        \r\n       in the Supreme bench which can be obtained through killing the Supreme boss and crafted within the almighty bench.\r\n\r\n       2. Other Ways to Earn Tiered Gear\r\n       Points Shop: Purchase the Almighty Bundle using in-game points or Discord coins.\r\n\r\n       Casino: Visit the VIP Casino for Almighty structures and tools.\r\n\r\n       Community: Participate in weekly Giveaways and seasonal Events.\r\n\r\n\r\n💰 The in-game server economy (How to Get Coins)\r\n\r\n       - Bronze: Harvest fiber with a High Sickle → Grow Bud → Sell your harvest.\r\n\r\n       - Silver: Kill Mythic/Legendary creatures for blood/hide → Sell at shop.\r\n\r\n       - Boss Coins: Kill Primal/Demonic/Mythic → Craft Progression Gem → Sell at Casino.\r\n\r\n\r\n💎 Tiered Mining (Pickaxe Progression)\r\n\r\n       Harvest Rich Metal Deposits (Not all nodes are Rich!) to progress through ores:\r\n\r\n       Silver → Gold → Diamond → Emerald → Amethyst → Ruby\r\n\r\n       Note: Each tier of pickaxe is required to mine the next tier of ore.\r\n\r\n\r\n🛡️ Starter Protection & Raid Relief (Open a ticket to claim)\r\n       New players receive the High Ark Starter Protection:\r\n\r\n       A massive, unbreakable Tek Forcefield that lasts 24 hours.\r\n\r\n       Got Wiped? Reclaim this as the \"Raid Relief\" package to get back on your feet.\r\n\r\n\r\n🧬 Levelpods: Creature Transformation\r\n       Levelpods allow you to transform your human character into one of your tames at any time. This transformation persists even after \r\n       death and can be toggled on or off.\r\n\r\n       Step 1: Charging the Pod\r\n       To activate a Levelpod, you must \"fill\" it with 800 levels worth of the same creature type.\r\n\r\n       Example: You can use two Level 400 dinos or four Level 200 dinos to fully charge the pod.\r\n\r\n       Step 2: Equipping the Transformation\r\n       Once your pod is full:\r\n\r\n       Open the Menu: Hold R (PC), X (Xbox), or Square (PlayStation).\r\n\r\n       Select Glyph: Choose the Glyph Option from the radial menu.\r\n\r\n       Set Slot: Assign the transformation to Slot 1 (or your preferred slot).\r\n\r\n       The pod will disappear, and the transformation is now bound to your character.\r\n\r\n       Step 3: Shifting Forms\r\n       You will now see an option to use your assigned slot to transform.\r\n\r\n       Persistent: Your transformation will remain even after dying.\r\n\r\n       Revertible: You can switch back to human form or into your tame form whenever you like.\r\n\r\n\r\n🥚 How to Hatch Eggs Quicker\r\n       While server rates are boosted, we have it setup in a specific way that requires you to use the Improved Egg Incubator to maximize \r\n       the speed\r\n\r\n       Where to craft: Inside the Tek Replicator.\r\n\r\n\r\n🥚 How to get eggs quicker\r\n       While server rates are boosted, we have it setup in a specific way that requires you to use the SCS Terminal with the \"Generate Unfert        \r\n       Eggs\" option ticked within the terminal settings found within the structure inventory to maximize the speed\r\n\r\n\r\n🛠️ Imbue & Upgrade Table\r\n\r\n       1. The Blueprinting System\r\n       Turn your single items into craftable blueprints!\r\n\r\n       You can blueprint most items, including Upgraded Armor and even Supreme/Nightfire structures.\r\n\r\n       This allows you to mass-produce high-tier items once you have found or crafted one.\r\n\r\n       2. Equipment Upgrading\r\n       Take your gear to the limit without searching for drops.\r\n\r\n       Upgrade weapons, tools, guns, and armor.\r\n\r\n       Advance your gear from Primitive all the way to Ascendant (Max Level).\r\n\r\n       3. The Imbuing System (Armor Only)\r\n       Give your character massive stat boosts by \"rolling\" bonuses onto your armor.\r\n\r\n       Compatibility: Works on Armor pieces only (Cannot be used on weapons, tools, or saddles).\r\n\r\n       Random Stats: Each \"roll\" can grant massive bonuses.\r\n\r\n       Example: A single helmet roll could give you +10k Melee and +20k Health!\r\n\r\n       Pro-Tips for the Table:\r\n       Check your Rolls: If you are struggling with a boss, check if your armor is fully imbued; the stat boosts are often the difference \r\n       between winning and losing.\r\n\r\n       Safety First: Always blueprint your best gear before taking it into a risky fight!\r\n\r\n       Where to craft: This can be crafted directly in your Players Inventory.\r\n\r\n\r\nNeed a more in depth guide? Check the #how-to-play section in our Discord for full tutorials"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Our Website",
+				"url": "https://high-ark.com/"
+			},
+			{
+				"text": "Our Discord",
+				"url": "https://discord.gg/4CHPE242PH"
+			},
+			{
+				"text": "Donation Shop",
+				"url": "https://high-ark.com/donation-packages/"
+			}
+		],
+		"version": 2
+	}
+}
